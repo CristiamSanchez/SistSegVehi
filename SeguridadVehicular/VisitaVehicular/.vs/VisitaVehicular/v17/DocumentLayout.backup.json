@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|c:\\users\\cristian.sanchez\\desktop\\proyecto1\\seguridadvehicular\\visitavehicular\\index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|solutionrelative:index.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|c:\\users\\cristian.sanchez\\desktop\\proyecto1\\seguridadvehicular\\visitavehicular\\forms\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|solutionrelative:forms\\admin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|solutionrelative:index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\forms\\rpt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|solutionrelative:forms\\rpt.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Forms\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|solutionrelative:Forms\\Default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Forms\\Rpt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|solutionrelative:Forms\\Rpt.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\forms\\registrovisita.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EFEA6C5C-5238-40FE-A755-56513F47158A}|VisitaVehicular.csproj|solutionrelative:forms\\registrovisita.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Index.aspx.cs",
+              "RelativeDocumentMoniker": "Index.aspx.cs",
+              "ToolTip": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Index.aspx.cs",
+              "RelativeToolTip": "Index.aspx.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA9wGQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T15:02:02.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistroVisita.aspx",
+              "DocumentMoniker": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Forms\\RegistroVisita.aspx",
+              "RelativeDocumentMoniker": "Forms\\RegistroVisita.aspx",
+              "ToolTip": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Forms\\RegistroVisita.aspx",
+              "RelativeToolTip": "Forms\\RegistroVisita.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T19:26:41.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.aspx",
+              "DocumentMoniker": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Forms\\Admin.aspx",
+              "RelativeDocumentMoniker": "Forms\\Admin.aspx",
+              "ToolTip": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Forms\\Admin.aspx",
+              "RelativeToolTip": "Forms\\Admin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-20T19:22:00.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Index.aspx",
+              "RelativeDocumentMoniker": "Index.aspx",
+              "ToolTip": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Index.aspx",
+              "RelativeToolTip": "Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-17T20:51:35.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rpt.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Forms\\Rpt.aspx.cs",
+              "RelativeDocumentMoniker": "Forms\\Rpt.aspx.cs",
+              "ToolTip": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Forms\\Rpt.aspx.cs",
+              "RelativeToolTip": "Forms\\Rpt.aspx.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAADwvxEBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:27:19.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rpt.aspx",
+              "DocumentMoniker": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Forms\\Rpt.aspx",
+              "RelativeDocumentMoniker": "Forms\\Rpt.aspx",
+              "ToolTip": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Forms\\Rpt.aspx",
+              "RelativeToolTip": "Forms\\Rpt.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-17T20:27:19.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Forms\\Default.aspx",
+              "RelativeDocumentMoniker": "Forms\\Default.aspx",
+              "ToolTip": "C:\\Users\\cristian.sanchez\\Desktop\\Proyecto1\\SeguridadVehicular\\VisitaVehicular\\Forms\\Default.aspx",
+              "RelativeToolTip": "Forms\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-17T20:27:19.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
